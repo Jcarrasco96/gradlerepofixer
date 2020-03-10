@@ -1,2 +1,5 @@
 # gradlerepofixer
-GradleRepoFixer
+GradleRepoFixer for UCF students
+
+# idea
+Dairon Ian Garcia
